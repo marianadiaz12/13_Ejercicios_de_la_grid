@@ -1,0 +1,18 @@
+h1{
+	margin-bottom: 20px;
+}
+.pumas {
+	float: left;
+	height: 250px;
+	width: 250px;
+}
+ 
+.red{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+}
+
+p{
+	margin-bottom: 50px;
+}

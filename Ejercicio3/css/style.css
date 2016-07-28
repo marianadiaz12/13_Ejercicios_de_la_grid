@@ -1,0 +1,43 @@
+h1{
+	margin-bottom: 20px;
+}
+
+p{
+	margin-bottom: 50px;
+}
+
+.tam{
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	margin-right: -50px;
+	margin-bottom: 30px;
+}
+
+.caja{
+	border: 1px solid black;
+	padding: 50px;
+	margin-bottom: 20px;
+}
+
+.caja1{
+	background-color: #2E86C1;
+}
+
+.caja2{
+	background-color: #F39C12;
+}
+
+.caja3{
+	background-color:#A93226 ;
+}
+
+.caja4{
+	background-color: red;
+}
+
+.caja5{
+	background-color: #0E6251;
+	height: 20px;
+	width: 450px;
+}

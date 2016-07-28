@@ -1,0 +1,20 @@
+h1{
+	margin-bottom: 20px;
+}
+
+p{
+	margin-bottom: 50px;
+}
+
+#foto{
+	height: 300px;
+	width: 300px;
+}
+
+.tam{
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;
+	margin-top: 50px;
+	margin-left: 60px;
+}
